@@ -15,7 +15,7 @@ Feel free to check out my work! I'm always looking to learn, collaborate, and pu
 _Your Partner in Care_
 
 - Landing page: www.harmony-care.ca
-- Application link: [Harmony App](https://solid-app.fly.dev)
+- Visit [Harmony App](https://solid-app.fly.dev)
 
 Features:
 
