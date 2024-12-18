@@ -2,9 +2,9 @@
 
 **`Full-Stack Web Developer`**
 
-Hi there 👋! I'm a Full-Stack Web Development student at BCIT, soon to graduate. My journey into coding started with my love for problem-solving and logical thinking. There is something incredibly satisfying about finding solutions, whether it's a small puzzle or a big challenge.
+Hi there 👋 ! I'm a Full-Stack Web Development student at BCIT, soon to graduate. My journey into coding started with my love for problem-solving and logical thinking. There is something incredibly satisfying about finding solutions, whether it's a small puzzle or a big challenge.
 What excites me most is building applications and products that solve real-life problems. I'm constantly exploring new technologies and integrating them into my projects, all while focusing on creating smooth, intuitive user experiences.
-Feel free to check out my work! I'm always looking to learn, collaborate, and push the boundaries of what can be done with code.
+Feel free to check out my work 😊 ! I'm always looking to learn, collaborate, and push the boundaries of what can be done with code. ♥️
 
 ---
 
