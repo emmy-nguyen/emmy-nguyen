@@ -1,6 +1,39 @@
-# 💫 About Me:
+# 💫 Emmy Nguyen
 
-I'm currently studying
+**`Full-Stack Web Developer`**
+
+Hi there! I'm a Full-Stack Web Development student at BCIT, soon to graduate. My journey into coding started with my love for problem-solving and logical thinking. There is something incredibly satisfying about finding solutions, whether it's a small puzzle or a big challenge.
+What excites me most is building applications and products that solve real-life problems. I'm constantly exploring new technologies and integrating them into my projects, all while focusing on creating smooth, intuitive user experiences.
+Feel free to check out my work! I'm always looking to learn, collaborate, and push the boundaries of what can be done with code.
+
+---
+
+# ⚡️ Checkout my projects
+
+## Harmony - Caregiver application
+
+_Your Partner in Care_
+
+Landing page: www.harmony-care.ca
+Application link: [Harmony App](https://solid-app.fly.dev)
+
+Features:
+
+- Seamless log and track **_mood_**, **_medication_**, **_sleep_**, **_notes_**, and **_events_**
+- Use **_Harmony AI_** to automatically fill in your entries, saving you time and effort.
+- Organize and manage caregivers task with ease.
+
+Getting Started:
+
+1. **_Sign in_** with your email
+2. **_Create a team_** and your recipient's information
+3. Start logging data: Track **_mood_**, **_medication_**, **_sleep_**, **_notes_**, and **_events_** manually or let **_Harmony AI_** assist with auto-filling.
+   ß
+
+# 📫 Reach Me
+
+Email: emmy.workspace@gmail.com
+LinkedIn: linkedin.com/in/emmy-nguyen-m
 
 # 💻 Tech Stack:
 
