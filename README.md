@@ -10,9 +10,6 @@ Feel free to check out my work 😊 ! I'm always looking to learn, collaborate, 
    <a href="https://github.com/emmy-nguyen?tab=followers">
       <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/emmy-nguyen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-   <a href="https://www.linkedin.com/in/emmy-nguyen-m">
-      <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/followers/emmy-nguyen?color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn"/></a>
-
    <a href="https://github.com/emmy-nguyen?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/emmy-nguyen?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
