@@ -17,13 +17,13 @@ _Your Partner in Care_
 - Landing page: www.harmony-care.ca
 - Visit [Harmony App](https://solid-app.fly.dev)
 
-Features:
+#### 🛠️ Features:
 
 - Seamless log and track **mood**, **medication**, **sleep**, **notes**, and **events**
 - Use **Harmony AI** to automatically fill in your entries, saving you time and effort.
 - Organize and manage caregivers task with ease.
 
-Getting Started:
+#### 🚀 Getting Started:
 
 1. **Sign in** with your email
 2. **Create a team** and your recipient's information
