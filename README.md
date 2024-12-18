@@ -6,6 +6,17 @@ Hi there 👋 ! I'm a Full-Stack Web Development student at BCIT, soon to gradua
 What excites me most is building applications and products that solve real-life problems. I'm constantly exploring new technologies and integrating them into my projects, all while focusing on creating smooth, intuitive user experiences.
 Feel free to check out my work 😊 ! I'm always looking to learn, collaborate, and push the boundaries of what can be done with code. ♥️
 
+ <p align="left">
+   <a href="https://github.com/emmy-nguyen?tab=followers">
+      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/emmy-nguyen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+   <a href="https://www.linkedin.com/in/emmy-nguyen-m">
+      <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/followers/emmy-nguyen?color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn"/></a>
+
+   <a href="https://github.com/emmy-nguyen?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/emmy-nguyen?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
 ---
 
 ## ⚡️ Checkout my projects I've been working on
