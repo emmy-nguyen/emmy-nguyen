@@ -32,7 +32,7 @@ Getting Started:
 ## 📫 Reach Me
 
 - Email: emmy.workspace@gmail.com
-- LinkedIn: linkedin.com/in/emmy-nguyen-m
+- LinkedIn: [linkedin.com/in/emmy-nguyen-m](https://www.linkedin.com/in/emmy-nguyen-m/)
 
 ## 💻 Tech Stack:
 
