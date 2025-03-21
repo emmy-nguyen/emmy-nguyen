@@ -37,6 +37,49 @@ _Your Partner in Care_
 2. **Create a team** and your recipient's information
 3. Start logging data: Track **mood**, **medication**, **sleep**, **notes**, and **events** manually or let **Harmony AI** assist with auto-filling.
 
+### VibeHive - Your personal Music Hub
+
+VibeHive is a modern, full-stack Spotify clone that lets users upload, manage, and stream their own music. Built for music lovers who want control over their personal library, VibeHive combines sleek design with powerful features like real-time uploads, playback controls, and secure authentication.
+
+#### 🚀 Tech Stack
+
+- Next.js, React – Fast and dynamic frontend
+- TailwindCSS, Radix UI – Clean, accessible design
+- NextAuth, bcrypt – Secure authentication
+- Amazon S3 – Scalable media storage
+- PostgreSQL, Drizzle ORM – Efficient data handling
+- Zod, React Hook Form – Smooth form validation
+- Zustand – Lightweight state management
+
+#### 🎧 Features
+
+- Upload, Edit, and Delete songs.
+- Like & Search tracks.
+- Search songs.
+- Stream with a built-in player.
+
+### Moodify - Track your mood, elevate your mind
+
+Moodify is a modern, full-stack mood tracker that helps users log their daily emotions, thoughts, and life events. Designed with self-awareness and mental wellness in mind, Moodify visualizes emotional trends and offers a clean, intuitive experience for managing your mental health journey.
+
+#### 🧠 Tech Stack
+
+- Next.js, React, Vite – Fast and responsive frontend
+- TailwindCSS, Shadcn UI – Modern, accessible UI components
+- TanStack Router & Query – Seamless routing and data fetching
+- Kinde Auth – Scalable and secure user authentication
+- PostgreSQL, Drizzle ORM – Reliable, structured data storage
+- Zod, TanStack Form – Type-safe and user-friendly form handling
+- Bun, Hono – Lightweight and performant backend setup
+
+#### 📊 Features
+
+- Log daily moods, thoughts, and events
+- View visual mood trends over time
+- Secure account creation and sign-in
+- Clean calendar-based history and insights (coming soon)
+  Built for individuals, scalable for care teams or organizations
+
 ## 📫 Reach Me
 
 - Email: emmy.workspace@gmail.com
