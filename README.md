@@ -22,9 +22,6 @@ Feel free to check out my work 😊 ! I'm always looking to learn, collaborate, 
 
 _Your Partner in Care_
 
-- Landing page: www.harmony-care.ca
-- Visit [Harmony App](https://solid-app.fly.dev)
-
 #### 🛠️ Features:
 
 - Seamless log and track **mood**, **medication**, **sleep**, **notes**, and **events**
@@ -36,6 +33,8 @@ _Your Partner in Care_
 1. **Sign in** with your email
 2. **Create a team** and your recipient's information
 3. Start logging data: Track **mood**, **medication**, **sleep**, **notes**, and **events** manually or let **Harmony AI** assist with auto-filling.
+
+🌐 Live: [Landing Page](www.harmony-care.ca) | [App](https://solid-app.fly.dev)
 
 ### 🎵 VibeHive - Your personal Music Hub
 
@@ -58,6 +57,8 @@ VibeHive is a modern, full-stack Spotify clone that lets users upload, manage, a
 - Search songs.ß
 - Stream with a built-in player.
 
+📂 [Project Repository](https://github.com/emmy-nguyen/vibehive)
+
 ### 😌 Moodify - Track your mood, elevate your mind
 
 Moodify is a modern, full-stack mood tracker that helps users log their daily emotions, thoughts, and life events. Designed with self-awareness and mental wellness in mind, Moodify visualizes emotional trends and offers a clean, intuitive experience for managing your mental health journey.
@@ -79,6 +80,8 @@ Moodify is a modern, full-stack mood tracker that helps users log their daily em
 - Secure account creation and sign-in
 - Clean calendar-based history and insights (coming soon)
   Built for individuals, scalable for care teams or organizations
+
+📂 [Project Repository](https://github.com/emmy-nguyen/moodify)
 
 ## 📫 Reach Me
 
