@@ -34,7 +34,7 @@ _Your Partner in Care_
 2. **Create a team** and your recipient's information
 3. Start logging data: Track **mood**, **medication**, **sleep**, **notes**, and **events** manually or let **Harmony AI** assist with auto-filling.
 
-🌐 Live: [Landing Page](www.harmony-care.ca) | [App](https://solid-app.fly.dev)
+🌐 Live: [Landing Page](https://www.harmony-care.ca) | [App](https://solid-app.fly.dev)
 
 ### 🎵 VibeHive - Your personal Music Hub
 
