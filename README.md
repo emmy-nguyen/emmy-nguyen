@@ -18,7 +18,7 @@ Feel free to check out my work 😊 ! I'm always looking to learn, collaborate, 
 
 ## ⚡️ Checkout my projects I've been working on
 
-### Harmony - Caregiver application
+### 💡 Harmony - Caregiver application
 
 _Your Partner in Care_
 
@@ -35,9 +35,9 @@ _Your Partner in Care_
 
 1. **Sign in** with your email
 2. **Create a team** and your recipient's information
-3. Start logging data: Track **mood**, **medication**, **sleep**, **notes**, and **events** manually or let **Harmony AI** assist with auto-filling.
+3. ## Start logging data: Track **mood**, **medication**, **sleep**, **notes**, and **events** manually or let **Harmony AI** assist with auto-filling.
 
-### VibeHive - Your personal Music Hub
+### 🎵 VibeHive - Your personal Music Hub
 
 VibeHive is a modern, full-stack Spotify clone that lets users upload, manage, and stream their own music. Built for music lovers who want control over their personal library, VibeHive combines sleek design with powerful features like real-time uploads, playback controls, and secure authentication.
 
@@ -55,10 +55,10 @@ VibeHive is a modern, full-stack Spotify clone that lets users upload, manage, a
 
 - Upload, Edit, and Delete songs.
 - Like & Search tracks.
-- Search songs.
-- Stream with a built-in player.
+- Search songs.ß
+- ## Stream with a built-in player.
 
-### Moodify - Track your mood, elevate your mind
+### 😌 Moodify - Track your mood, elevate your mind
 
 Moodify is a modern, full-stack mood tracker that helps users log their daily emotions, thoughts, and life events. Designed with self-awareness and mental wellness in mind, Moodify visualizes emotional trends and offers a clean, intuitive experience for managing your mental health journey.
 
