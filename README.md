@@ -35,7 +35,7 @@ _Your Partner in Care_
 
 1. **Sign in** with your email
 2. **Create a team** and your recipient's information
-3. ## Start logging data: Track **mood**, **medication**, **sleep**, **notes**, and **events** manually or let **Harmony AI** assist with auto-filling.
+3. Start logging data: Track **mood**, **medication**, **sleep**, **notes**, and **events** manually or let **Harmony AI** assist with auto-filling.
 
 ### 🎵 VibeHive - Your personal Music Hub
 
@@ -56,7 +56,7 @@ VibeHive is a modern, full-stack Spotify clone that lets users upload, manage, a
 - Upload, Edit, and Delete songs.
 - Like & Search tracks.
 - Search songs.ß
-- ## Stream with a built-in player.
+- Stream with a built-in player.
 
 ### 😌 Moodify - Track your mood, elevate your mind
 
