@@ -6,81 +6,13 @@ Hi there 👋 ! I'm a Full-Stack Web Development student at BCIT, soon to gradua
 What excites me most is building applications and products that solve real-life problems. I'm constantly exploring new technologies and integrating them into my projects, all while focusing on creating smooth, intuitive user experiences.
 Feel free to check out my work 😊 ! I'm always looking to learn, collaborate, and push the boundaries of what can be done with code. ♥️
 
-[![Gmail](https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
-
 ---
-
-<!-- ## ⚡️ Checkout my projects I've been working on
-
-### 💡 Harmony - Caregiver application
-
-_Your Partner in Care_
-
-#### 🛠️ Features:
-
-- Seamless log and track **mood**, **medication**, **sleep**, **notes**, and **events**
-- Use **Harmony AI** to automatically fill in your entries, saving you time and effort.
-- Organize and manage caregivers task with ease.
-
-#### 🚀 Getting Started:
-
-1. **Sign in** with your email
-2. **Create a team** and your recipient's information
-3. Start logging data: Track **mood**, **medication**, **sleep**, **notes**, and **events** manually or let **Harmony AI** assist with auto-filling.
-
-🌐 Live: [Landing Page](https://www.harmony-care.ca) | [App](https://solid-app.fly.dev)
-
-### 🎵 VibeHive - Your personal Music Hub
-
-VibeHive is a modern, full-stack Spotify clone that lets users upload, manage, and stream their own music. Built for music lovers who want control over their personal library, VibeHive combines sleek design with powerful features like real-time uploads, playback controls, and secure authentication.
-
-#### 🚀 Tech Stack
-
-- Next.js, React – Fast and dynamic frontend
-- TailwindCSS, Radix UI – Clean, accessible design
-- NextAuth, bcrypt – Secure authentication
-- Amazon S3 – Scalable media storage
-- PostgreSQL, Drizzle ORM – Efficient data handling
-- Zod, React Hook Form – Smooth form validation
-- Zustand – Lightweight state management
-
-#### 🎧 Features
-
-- Upload, Edit, and Delete songs.
-- Like & Search tracks.
-- Search songs.ß
-- Stream with a built-in player.
-
-📂 [Project Repository](https://github.com/emmy-nguyen/vibehive)
-
-### 😌 Moodify - Track your mood, elevate your mind
-
-Moodify is a modern, full-stack mood tracker that helps users log their daily emotions, thoughts, and life events. Designed with self-awareness and mental wellness in mind, Moodify visualizes emotional trends and offers a clean, intuitive experience for managing your mental health journey.
-
-#### 🧠 Tech Stack
-
-- Next.js, React, Vite – Fast and responsive frontend
-- TailwindCSS, Shadcn UI – Modern, accessible UI components
-- TanStack Router & Query – Seamless routing and data fetching
-- Kinde Auth – Scalable and secure user authentication
-- PostgreSQL, Drizzle ORM – Reliable, structured data storage
-- Zod, TanStack Form – Type-safe and user-friendly form handling
-- Bun, Hono – Lightweight and performant backend setup
-
-#### 📊 Features
-
-- Log daily moods, thoughts, and events
-- View visual mood trends over time
-- Secure account creation and sign-in
-- Clean calendar-based history and insights (coming soon)
-  Built for individuals, scalable for care teams or organizations
-
-📂 [Project Repository](https://github.com/emmy-nguyen/moodify) -->
 
 ## 📫 Reach Me
 
 - Email: emmy.workspace@gmail.com
 - LinkedIn: [linkedin.com/in/emmy-nguyen-m](https://www.linkedin.com/in/emmy-nguyen-m/)
+- Portfolio: [emmynguyen.ca](https://emmynguyen.ca/)
 
 ## 💻 Tech Stack:
 
