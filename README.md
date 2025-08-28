@@ -1,7 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=EMMY%20NGUYEN%20%F0%9F%8C%88&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
-<!--
-# 💫 Emmy Nguyen -->
+# 💫 Emmy Nguyen
 
 **`Full-Stack Web Developer`**
 
