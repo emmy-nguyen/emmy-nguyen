@@ -12,7 +12,7 @@ Feel free to check out my work 😊 ! I'm always looking to learn, collaborate, 
 
 - Email: emmy.workspace@gmail.com
 - LinkedIn: [linkedin.com/in/emmy-nguyen-m](https://www.linkedin.com/in/emmy-nguyen-m/)
-- Portfolio: [emmynguyen](https://emmynguyen.vercel.app/))
+- Portfolio: [emmynguyen](https://emmynguyen.vercel.app/)
 
 ## 💻 Tech Stack:
 
